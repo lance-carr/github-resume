@@ -1,9 +1,9 @@
 /* eslint-disable */
 export const PERSON = {
   name: {
-    first: 'John',
+    first: 'Lance',
     middle: '',
-    last: 'Doe',
+    last: 'Carr',
   },
   position: 'Software Developer',
   birth: {
